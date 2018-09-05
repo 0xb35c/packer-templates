@@ -35,7 +35,7 @@
   "post-processors": [
     [
       {
-        "keep_input_artifact": true,
+        "keep_input_artifact": false,
         "type": "vagrant",
         "output": "alpine_with_docker"
       }
